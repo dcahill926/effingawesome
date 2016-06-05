@@ -1,0 +1,83 @@
+.main-nav {
+
+   text-align: center;
+   font-weight: bold;
+ 
+
+}
+
+.main-nav ul {
+  list-style-type: none;
+  padding:  10px;
+  }
+
+.main-nav li {
+   display:  inline;
+   padding: 30px;
+   font-size: 1.2em;
+
+
+}
+
+.main-nav li a {
+   text-decoration: none;
+   color: white;
+}
+
+.main-nav li a:hover {
+  color: #0099cc;
+  background-color: transparent;
+  text-decoration: underline; 
+}
+
+.header {
+   text-align:  center;
+   background-color: black;
+   opacity: .8;
+   padding: 3px;
+}
+
+
+body {
+  background-image: url("http://dx9rjq5h30myv.cloudfront.net/wp-content/uploads/2014/05/100beards.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  }
+
+.about-header {
+  text-align: center;
+  background-color: black;
+  opacity: .8;
+  margin-top: 500px;
+  padding: 10px;
+
+}
+
+.products-header {
+  text-align: center;
+  background-color: black;
+  opacity: .8;
+  margin-top: 500px;
+  padding: 10px;
+
+}
+
+.beardfame-header {
+  text-align: center;
+  background-color: black;
+  opacity: .8;
+  margin-top: 500px;
+
+  padding: 10px;
+
+}
+
+#footer {
+  text-align: center;
+  font-weight: bold;
+
+}
